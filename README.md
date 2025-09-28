@@ -1,4 +1,4 @@
 # Week 8 quiz
 ### **Part 1: Imaging Technique Inspiration**
 An example of an imaging technique that I find inspirational towards the assignment is [this](https://youtu.be/dqVIPuG7mDw?t=1302) After Effects tutorial on creating fractals and applying them to manipulate videos and images. The tutorial demonstrates how fractal patterns can be used to produce visually striking results. In particular, I am drawn to the infinite zooming effect, which creates a sense of depth and motion that feels both abstract and immersive. I would like to recreate this effect, as I can imagine incorporating it into the project regardless of which animation method my group members decide on.
-![Fractal](readmeImages/Fractal.png)![Fractal2](readmeImages/Fractal2.png)
+|![Fractal](readmeImages/Fractal.png)!|[Fractal2](readmeImages/Fractal2.png)|
