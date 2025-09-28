@@ -4,8 +4,8 @@
 An example of an imaging technique that I find inspirational towards the assignment is [this](https://www.cesoid.com/fractal) Fractal Explorer website by Cesoid. In particular, I am drawn to the infinite zooming effect, which creates a sense of depth and motion that feels both abstract and immersive. I would like to recreate this effect, as I can imagine ways of incorporating it into the project regardless of which animation method my group members decide on.
 
 <p align="center">
-  <img src="readmeImages/Fractal.png" width="49%">
-  <img src="readmeImages/Fractal2.png" width="49%">
+  <img src="readmeImages/Fractal1.png" width="49%">
+  <img src="readmeImages/Fractal3.png" width="49%">
 </p>
 
 ### **Part 2: Coding Technique**
