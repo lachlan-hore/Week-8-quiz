@@ -9,7 +9,7 @@ An example of an imaging technique that I find inspirational towards the assignm
 </p>
 
 ### **Part 2: Coding Technique**
-When I first explored fractal artworks in p5.js, I read [chapter 8](https://natureofcode.com/fractals/) of *The Nature of Code* by Daniel Shiffman. I later realised I had overlooked that fractals would be covered in week 10 of the canvas. Still, the chapter provided valuable insight into creating dynamic, natural fractals, especially the Koch curve and L-systems. It also emphasized the importance of avoiding infinite recursion and simplifying computation by calculating points relative to angles rather than distance. The images below demonstrate a simple scalable tree created with vectors, where the rotation angle is controlled by the mouseX position.
+When I first explored fractal artworks in p5.js, I read [chapter 8](https://natureofcode.com/fractals/) of *The Nature of Code* by Daniel Shiffman. I later realised I had overlooked that fractals would be covered in the week 10 lecture. Still, the chapter provided valuable insight into creating dynamic, natural fractals, especially the Koch curve and L-systems. It also emphasized the importance of avoiding infinite recursion and simplifying computation by calculating points relative to angles rather than distance. The images below demonstrate a simple scalable tree created with vectors, where the rotation angle is controlled by the mouseX position.
 
 <p align="center">
   <img src="readmeImages/Tree.png" width="57%">
