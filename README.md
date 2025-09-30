@@ -1,7 +1,7 @@
 # Week 8 quiz
 ### **Part 1: Imaging Technique Inspiration**
 
-An example of an imaging technique that I find inspirational towards the assignment is [this](https://www.cesoid.com/fractal) Fractal Explorer website by Cesoid. In particular, I am drawn to the infinite zooming effect, which creates a sense of depth and motion that feels both abstract and immersive. I would like to recreate this effect, as I can imagine ways of incorporating it into the project regardless of which animation method my group members decide on.
+An example of an imaging technique that I find inspirational towards the assignment is [this](https://www.cesoid.com/fractal) Fractal Explorer website by Cesoid. In particular, I am drawn to the infinite zooming effect, which creates a sense of depth and motion that feels both abstract and immersive. I would like to recreate this effect, as I can imagine ways of incorporating it into the project regardless of which animation method my group members decide on. Fractals may end up being only a small part or extra component of my final work.
 
 <p align="center">
   <img src="readmeImages/Fractal1.png" width="49%">
